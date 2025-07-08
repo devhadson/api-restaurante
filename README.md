@@ -279,6 +279,6 @@ Respuesta 2
 ## 🚀 Acerca de
 😀 Hola, Soy Hadson Paredes 👋
 
-Mis inicios fueron de *programador full stack* y actualmente soy Arquitecto de Soluciones encargo de diseñar e implementar soluciones tecnológicas basado en *Cloud Computing*, *IA* y *Data Science*. Actualmente en mis tiempos libres aún sigo programado aplicaciones relacionados soluciones *Web*, *IA* y *Data Science*.
+Mis inicios fueron de *programador full stack* y actualmente soy Arquitecto de Soluciones encargo de diseñar e implementar soluciones tecnológicas basado en *Cloud Computing*, *IA* y *Data Science*. Actualmente en mis tiempos libres aún sigo programado aplicaciones relacionados a soluciones *Cloud*, *Web*, *IA* y *Data Science*.
 
 > **Lifelong learner**
